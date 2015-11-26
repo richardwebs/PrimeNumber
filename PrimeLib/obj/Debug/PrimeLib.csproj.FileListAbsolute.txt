@@ -1,0 +1,10 @@
+C:\Development\GitRepos\PrimeLib\bin\Debug\PrimeLib.dll
+C:\Development\GitRepos\PrimeLib\bin\Debug\PrimeLib.pdb
+C:\Development\GitRepos\PrimeLib\obj\Debug\PrimeLib.csprojResolveAssemblyReference.cache
+C:\Development\GitRepos\PrimeLib\obj\Debug\PrimeLib.dll
+C:\Development\GitRepos\PrimeLib\obj\Debug\PrimeLib.pdb
+C:\Development\PrimeNumber\PrimeLib\bin\Debug\PrimeLib.dll
+C:\Development\PrimeNumber\PrimeLib\bin\Debug\PrimeLib.pdb
+C:\Development\PrimeNumber\PrimeLib\obj\Debug\PrimeLib.csprojResolveAssemblyReference.cache
+C:\Development\PrimeNumber\PrimeLib\obj\Debug\PrimeLib.dll
+C:\Development\PrimeNumber\PrimeLib\obj\Debug\PrimeLib.pdb

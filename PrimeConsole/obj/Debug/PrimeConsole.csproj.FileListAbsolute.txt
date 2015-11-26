@@ -1,0 +1,9 @@
+C:\Development\GitRepos\PrimeConsole\bin\Debug\PrimeConsole.exe.config
+C:\Development\PrimeNumber\PrimeConsole\bin\Debug\PrimeConsole.exe.config
+C:\Development\PrimeNumber\PrimeConsole\bin\Debug\PrimeConsole.exe
+C:\Development\PrimeNumber\PrimeConsole\bin\Debug\PrimeConsole.pdb
+C:\Development\PrimeNumber\PrimeConsole\bin\Debug\PrimeLib.dll
+C:\Development\PrimeNumber\PrimeConsole\bin\Debug\PrimeLib.pdb
+C:\Development\PrimeNumber\PrimeConsole\obj\Debug\PrimeConsole.csprojResolveAssemblyReference.cache
+C:\Development\PrimeNumber\PrimeConsole\obj\Debug\PrimeConsole.exe
+C:\Development\PrimeNumber\PrimeConsole\obj\Debug\PrimeConsole.pdb
